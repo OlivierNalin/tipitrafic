@@ -1,2 +1,3 @@
 Les explications sont dns le Wiki
 
+Le programme mariusTipiScrape.py enregistre les données TIPI Trafic temps réel dans une base BigQuery et réalise quelques traitements sur la base pour permettre des visualisations par DataStudio.
